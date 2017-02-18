@@ -21,3 +21,4 @@ drwxr-xr-x  2 muhammad.farhan55 StafCS 4096 Feb 18 08:46 week09
 drwxr-xr-x  2 muhammad.farhan55 StafCS 4096 Feb 18 08:46 week10
 drwxr-xr-x  2 muhammad.farhan55 StafCS 4096 Feb 18 08:46 xtra
 /home/fasilkom/mahasiswa/m/muhammad.farhan55/os171/week01
+Today is 18 Feb 2017 at 09:04:40
