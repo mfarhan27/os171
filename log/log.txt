@@ -17,3 +17,15 @@ w01-170216-10-LR-About: Scripting, Kelas
 w01-170216-11-LR-About: Scripting, Kelas
 w01-170217-15-PS-About: Practice foldering putty, Tugas Lab
 w01-170217-15-PS-About: Scripting, Tugas lab
+
+w02-170221-10-LR-About: Privacy Matters, Kelas
+w02-170221-10-LR-About: Privacy Matters, Kelas
+w02-170221-11-LR-About: Privacy Matters, Kelas
+w02-170222-15-PS-About: Practice enkripsi, Tugas Lab
+w02-170222-15-PS-About: Practice sigital signature, Tugas Lab
+w02-170222-20-LR-About: Belajar memahami mengenai enkripsi di terminal, Slide Arsip
+w02-170223-10-LR-About: Enckripsi dan penggunaan GPG, Kelas
+w02-170223-10-LR-About: Enckripsi dan penggunaan GPG, Kelas
+w02-170223-11-LR-About: Pengenalan C, Kelas
+w02-170214-24-PS-About: Practice coding c di terminal, Tugas Lab
+w02-170214-24-PS-About: Practice coding c di terminal, Tugas lab
