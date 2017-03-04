@@ -29,3 +29,11 @@ w02-170223-10-LR-About: Enckripsi dan penggunaan GPG, Kelas
 w02-170223-11-LR-About: Pengenalan C, Kelas
 w02-170214-24-PS-About: Practice coding c di terminal, Tugas Lab
 w02-170214-24-PS-About: Practice coding c di terminal, Tugas lab
+
+w03-170302-10-LR-About: Pengenalan Booting, Kelas
+w03-170302-10-LR-About: Linux Boot, Kelas
+w03-170302-11-LR-About: Superuser commands, Kelas
+w03-170303-18-LR-About: Mempelajari linux commands untuk pemula, "https://www.pluralsight.com/blog/it-ops/linux-commands-for-beginners"
+w03-170303-20-PS-About: Boot dan superuser commands, Tugas Lab
+w03-170303-20-PS-About: Boot dan superuser commands, Tugas lab
+
