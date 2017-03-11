@@ -37,3 +37,12 @@ w03-170303-18-LR-About: Mempelajari linux commands untuk pemula, "https://www.pl
 w03-170303-20-PS-About: Boot dan superuser commands, Tugas Lab
 w03-170303-20-PS-About: Boot dan superuser commands, Tugas lab
 
+w04-170307-10-LR-About: Variable Adresses, Kelas
+w04-170307-10-LR-About: Variable Adresses, Kelas
+w04-170307-11-LR-About: Pointer, Kelas
+w04-170309-10-LR-About: I/O process, Kelas
+w04-170309-10-LR-About: I/O process, Kelas
+w04-170309-11-LR-About: I/O process, Kelas
+w04-170309-20-LR-About: Belajar memahami input output pada c, https://www.programiz.com/c-programming/c-file-input-output
+w04-170310-20-PS-About: Practice variable adress dan pointer, Tugas Lab
+w04-170310-20-PS-About: Practice open dan close pada c, Tugas lab
