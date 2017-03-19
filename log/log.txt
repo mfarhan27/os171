@@ -46,3 +46,12 @@ w04-170309-11-LR-About: I/O process, Kelas
 w04-170309-20-LR-About: Belajar memahami input output pada c, https://www.programiz.com/c-programming/c-file-input-output
 w04-170310-20-PS-About: Practice variable adress dan pointer, Tugas Lab
 w04-170310-20-PS-About: Practice open dan close pada c, Tugas lab
+
+w05-170314-10-LR-About: Memory, Kelas
+w05-170314-10-LR-About: Memory, Kelas
+w05-170314-11-LR-About: Memory, Kelas
+w05-170316-10-LR-About: Soal Tahun Lalu mengenai memory, Kelas
+w05-170316-10-LR-About: Soal Tahun Lalu mengenai memory, Kelas
+w05-170316-11-LR-About: Soal Tahun Lalu mengenai memory, Kelas
+w05-170318-20-PS-About: Memahami memory, Tugas Lab
+w05-170318-20-PS-About: Memahami memory, Tugas lab
