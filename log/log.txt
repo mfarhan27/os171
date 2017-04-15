@@ -55,3 +55,12 @@ w05-170316-10-LR-About: Soal Tahun Lalu mengenai memory, Kelas
 w05-170316-11-LR-About: Soal Tahun Lalu mengenai memory, Kelas
 w05-170318-20-PS-About: Memahami memory, Tugas Lab
 w05-170318-20-PS-About: Memahami memory, Tugas lab
+
+w05-170411-10-LR-About: Fork, Kelas
+w05-170411-10-LR-About: Fork, Kelas
+w05-170411-11-LR-About: Fork, Kelas
+w05-170413-10-LR-About: Fork, Kelas
+w05-170413-10-LR-About: Fork, Kelas
+w05-170413-11-LR-About: Fork, Kelas
+w05-170414-20-PS-About: Tutorial Fork, Tugas Lab
+w05-170414-20-PS-About: Tutorial FOrk, Tugas lab
