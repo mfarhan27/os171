@@ -56,11 +56,20 @@ w05-170316-11-LR-About: Soal Tahun Lalu mengenai memory, Kelas
 w05-170318-20-PS-About: Memahami memory, Tugas Lab
 w05-170318-20-PS-About: Memahami memory, Tugas lab
 
-w05-170411-10-LR-About: Fork, Kelas
-w05-170411-10-LR-About: Fork, Kelas
-w05-170411-11-LR-About: Fork, Kelas
-w05-170413-10-LR-About: Fork, Kelas
-w05-170413-10-LR-About: Fork, Kelas
-w05-170413-11-LR-About: Fork, Kelas
-w05-170414-20-PS-About: Tutorial Fork, Tugas Lab
-w05-170414-20-PS-About: Tutorial FOrk, Tugas lab
+w06-170411-10-LR-About: Fork, Kelas
+w06-170411-10-LR-About: Fork, Kelas
+w06-170411-11-LR-About: Fork, Kelas
+w06-170413-10-LR-About: Fork, Kelas
+w06-170413-10-LR-About: Fork, Kelas
+w06-170413-11-LR-About: Fork, Kelas
+w06-170414-20-PS-About: Tutorial Fork, Tugas Lab
+w06-170414-20-PS-About: Tutorial FOrk, Tugas lab
+
+w07-170418-10-LR-About: Multithread, Kelas
+w07-170418-10-LR-About: Multithread, Kelas
+w07-170418-11-LR-About: Multithread, Kelas
+w07-170420-10-LR-About: Semaphore, Kelas
+w07-170420-10-LR-About: Semaphore, Kelas
+w07-170420-11-LR-About: Semaphore, Kelas
+w07-170421-20-PS-About: Tutorial Semaphore, Tugas Lab
+w07-170421-20-PS-About: Tutorial Semaphore, Tugas lab
