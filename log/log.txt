@@ -73,3 +73,12 @@ w07-170420-10-LR-About: Semaphore, Kelas
 w07-170420-11-LR-About: Semaphore, Kelas
 w07-170421-20-PS-About: Tutorial Semaphore, Tugas Lab
 w07-170421-20-PS-About: Tutorial Semaphore, Tugas lab
+
+w08-170425-10-LR-About: Socket, Kelas
+w08-170425-10-LR-About: Socket, Kelas
+w08-170425-11-LR-About: Socket, Kelas
+w08-170427-10-LR-About: Scheduling, Kelas
+w08-170427-10-LR-About: Scheduling, Kelas
+w08-170427-11-LR-About: Scheduling, Kelas
+w08-170428-20-PS-About: Tutorial Socket-scheduling, Tugas Lab
+w08-170428-20-PS-About: Tutorial Socket-scheduling, Tugas lab
