@@ -1,0 +1,5 @@
+Github Account = mfarhan27
+URL Ulasan = http://mfarhan27-os171.blogspot.co.id/2017/05/ulasan-1.html
+URL Video = https://youtu.be/6Q9ybBYjEqg (6 menit 7 detik)
+Pemetaan = Week07
+Revisi Pertama = 17 Mei 2017
